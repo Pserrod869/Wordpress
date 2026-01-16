@@ -8,3 +8,9 @@ Aqui encontraras mi pagina web con Wordpress
 <img width="1365" height="649" alt="image" src="https://github.com/user-attachments/assets/11c27deb-c983-4a32-88ba-e5e9b52ac64b" />
 <img width="1361" height="641" alt="image" src="https://github.com/user-attachments/assets/9b111bff-7dfd-4628-b581-cdb61be2bb6e" />
 <img width="1357" height="641" alt="image" src="https://github.com/user-attachments/assets/01634976-0223-44f5-b1e4-2469d0b336e9" />
+
+Dia 16/01/2026
+<img width="1348" height="599" alt="image" src="https://github.com/user-attachments/assets/ed861414-3e84-49fa-b480-570f9c79ef3a" />
+<img width="1348" height="597" alt="image" src="https://github.com/user-attachments/assets/ec61ba06-ee85-4d37-8bf9-ebf951724d92" />
+<img width="1351" height="599" alt="image" src="https://github.com/user-attachments/assets/04f5afdb-77a9-4e8c-9b0f-5b06b6c20f8c" />
+
