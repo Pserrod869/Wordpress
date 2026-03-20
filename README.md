@@ -1,6 +1,8 @@
 # Wordpress
 Aqui encontraras mi pagina web con Wordpress
-<img width="1234" height="4914" alt="image" src="https://github.com/user-attachments/assets/15b3539b-c1a9-48bc-946a-ee37c442d014" />
+
+<img width="1234" height="4914" alt="image" src="https://github.com/user-attachments/assets/a95e5c27-3019-42cd-a1be-fabb0a39df8a" />
+
 <img width="1234" height="2649" alt="image" src="https://github.com/user-attachments/assets/2c597876-6116-484a-90cc-be6d70646cf4" />
 <img width="1234" height="3151" alt="image" src="https://github.com/user-attachments/assets/3a982e96-1042-43ac-9d40-a7f2a3fd20ce" />
 <img width="1234" height="4268" alt="image" src="https://github.com/user-attachments/assets/e25031f3-aaac-4ea3-8741-93666dc8d101" />
