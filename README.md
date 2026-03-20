@@ -1,6 +1,13 @@
 # Wordpress
 Aqui encontraras mi pagina web con Wordpress
-<img width="1359" height="612" alt="image" src="https://github.com/user-attachments/assets/3fd9b4eb-5573-47bb-8902-8b45dfbd1b7d" />
+<img width="1234" height="4914" alt="image" src="https://github.com/user-attachments/assets/15b3539b-c1a9-48bc-946a-ee37c442d014" />
+<img width="1234" height="2649" alt="image" src="https://github.com/user-attachments/assets/2c597876-6116-484a-90cc-be6d70646cf4" />
+<img width="1234" height="3151" alt="image" src="https://github.com/user-attachments/assets/3a982e96-1042-43ac-9d40-a7f2a3fd20ce" />
+<img width="1234" height="4268" alt="image" src="https://github.com/user-attachments/assets/e25031f3-aaac-4ea3-8741-93666dc8d101" />
+<img width="1234" height="1992" alt="image" src="https://github.com/user-attachments/assets/acace6ad-f43f-446e-8bdd-7622f79e7321" />
+
+
+
 <img width="1363" height="641" alt="image" src="https://github.com/user-attachments/assets/8966436b-bd1e-4000-96be-a95108ba4de8" />
 <img width="1360" height="641" alt="image" src="https://github.com/user-attachments/assets/0ad44f17-550d-4962-bf84-d2d7d16724e2" />
 <img width="1360" height="639" alt="image" src="https://github.com/user-attachments/assets/643a5155-8c0f-4323-9913-6c661750d7a6" />
